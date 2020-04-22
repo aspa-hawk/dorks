@@ -1,0 +1,77 @@
+ Descripción
+	
+Dork
+Videos subidos en la última hora
+searchKeyword, hour
+
+Videos subidos en las últimas 24h
+searchKeyword, today
+
+Videos subidos los últimos 7 días
+searchKeyword, week
+
+Videos subidos en el último mes
+searchKeyword, month
+
+Video subidos en el último 1 año
+searchKeyword, year
+
+Buscar vídeos solamente
+searchKeyword, video
+
+Buscar canales solamente
+searchKeyword, channel
+
+Buscar vídeos playlists solamente
+searchKeyword, playlist
+
+Buscar películas solamente
+searchKeyword, movie
+
+Buscar tv shows solamente
+searchKeyword, show
+
+Buscar vídeos de menos de 4 minutos
+searchKeyword, short
+
+Buscar vídeos de más de 20 minutos
+searchKeyword, long
+
+Buscar vídeos de directos
+searchKeyword, live
+
+Buscar vídeos en 4K
+searchKeyword, 4k
+
+Buscar vídeos en HD
+searchKeyword, hd
+
+Buscar vídeos con subtítulos
+searchKeyword, cc
+
+Buscar vídeos con licencias
+searchKeyword, creativecommons
+
+Buscar vídeos con 360°
+searchKeyword, spherical
+
+Buscar vídeos en 3D
+searchKeyword, 3d
+
+Buscar vídeos en HDR
+searchKeyword, hdr
+
+Buscar vídeo a través del título
+intitle: searchKeyword
+
+Forzar la búsqueda de searchKword en los resultados
++ searchKeyword
+
+Omitir searchKeyword en los resultados
+- searchKeyword
+
+Buscar por la expresión exacta searchKeyword
+“searchKeyword”
+
+Carácter Wildcard
+*
